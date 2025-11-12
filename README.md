@@ -1,4 +1,4 @@
-# 🧩 Customer Behaviour Analysis Dashboard (MySQL + Power BI)
+# Customer Behaviour Analysis Dashboard (MySQL + Power BI)
 
 ## 📘 Project Overview
 This project focuses on analysing customer behaviour data to uncover insights into spending patterns, discounts, product preferences, and subscription trends.  
@@ -11,18 +11,6 @@ The process involved cleaning and preparing the dataset in Jupyter Notebook, sto
 - Store and manage the cleaned dataset in a relational database (MySQL).  
 - Answer key business questions using SQL queries (e.g., revenue by gender, top products, subscription impact, etc.).  
 - Build a Power BI dashboard for visualising customer spending patterns and business KPIs.
-
----
-
-## 🧰 Tools & Technologies Used
-
-| Category | Tools / Technologies |
-|-----------|---------------------|
-| Data Cleaning | Python, Pandas, Jupyter Notebook |
-| Database | MySQL |
-| Analysis | SQL Queries |
-| Visualisation | Microsoft Power BI |
-| Version Control | Git & GitHub |
 
 ---
 
@@ -42,5 +30,5 @@ The process involved cleaning and preparing the dataset in Jupyter Notebook, sto
 ## 👨‍💻 Author
 **Subhankar Saha**  
 📧 Email: *[sahasubhankarkoronn@gmail.com]*  
-💼 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+💼 GitHub: [github.com/yourusername]([https://github.com/subhankar0002])  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
