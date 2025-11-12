@@ -16,7 +16,7 @@ The process involved cleaning and preparing the dataset in Jupyter Notebook, sto
 
 ## 📂 Workflow Summary
 
-(Workflow.png)
+![Workflow Summary](Workflow.png)
 
 ---
 
@@ -24,11 +24,3 @@ The process involved cleaning and preparing the dataset in Jupyter Notebook, sto
 - Add real-time data updates between MySQL and Power BI.
 - Integrate predictive analytics (Python/ML) for future sales forecasting.
 - Automate report refresh in Power BI Service.
-
----
-
-## 👨‍💻 Author
-**Subhankar Saha**  
-📧 Email: *[sahasubhankarkoronn@gmail.com]*  
-💼 GitHub: [github.com/yourusername]([https://github.com/subhankar0002])  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
